@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI-powered+software+systems;Engineering+backend-heavy+products;Spring+Boot+•+PostgreSQL+•+Java+•+GenAI;Turning+data+into+decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Software+Systems;Engineering+Backend+Heavy+Products;Spring+Boot+%7C+PostgreSQL+%7C+Java+%7C+GenAI;Turning+Data+Into+Decisions" />
 </p>
 
 ## About Me
