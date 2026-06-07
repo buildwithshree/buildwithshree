@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Shreejal Mehta</h1>
 
-<!--
-**buildwithshree/buildwithshree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI-ML Engineer • Backend Developer • Generative AI Builder
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent systems that transform data into decisions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Computer Science Engineering (AI-ML) student at SRM Institute of Science and Technology.
+
+My primary focus is building practical software systems that combine:
+
+- Artificial Intelligence
+- Data Engineering
+- Backend Architecture
+- Generative AI
+
+Currently, I'm leading the backend and database development of LASIS — a placement intelligence platform that evaluates company layoff risk and student readiness using predictive models and real-world hiring signals.
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - PostgreSQL
+  - Machine Learning
+  - Generative AI
+  - AI Agents
+  - RAG Systems
+
+Building:
+  - LASIS (Layoff & Skill Intelligence System)
+
+Exploring:
+  - LLM Applications
+  - AI-powered Products
+  - Backend System Design
