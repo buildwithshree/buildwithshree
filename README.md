@@ -60,7 +60,7 @@ A placement intelligence platform designed to help students make smarter career 
 - Placement Intelligence Dashboard
 - Career Decision Support
 
-```yaml
+yaml
 Backend:
   - Spring Boot
   - Java
@@ -143,4 +143,4 @@ const shreejal = {
 + Build Recommendation Engine
 + Strengthen Java DSA Repository
 + Secure a High-Impact Internship
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=speech&height=120&color=0:082F49,30:155E75,70:14B8A6,100:F0FDFA&text=CONNECT&fontColor=FFFFFF&fontSize=34"/> </p> <p align="center"> <a href="https://github.com/buildwithshree"> <img src="https://img.shields.io/badge/GitHub-buildwithshree-111827?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/shreejal-mehta"> <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-2563EB?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <br> <p align="center"> <b> Building intelligent systems • Engineering career-ready products • Turning data into decisions </b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ECFEFF,25:99F6E4,50:14B8A6,75:0F766E,100:020617&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=speech&height=120&color=0:082F49,30:155E75,70:14B8A6,100:F0FDFA&text=CONNECT&fontColor=FFFFFF&fontSize=34"/> </p> <p align="center"> <a href="https://github.com/buildwithshree"> <img src="https://img.shields.io/badge/GitHub-buildwithshree-111827?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/shreejal-mehta"> <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-2563EB?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <br> <p align="center"> <b> Building intelligent systems • Engineering career-ready products • Turning data into decisions </b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ECFEFF,25:99F6E4,50:14B8A6,75:0F766E,100:020617&section=footer"/> </p> 
