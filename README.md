@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = r'''# Shreejal Mehta
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:1E3A8A,100:38BDF8&text=SHREEJAL%20MEHTA&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI-ML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20GenAI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
@@ -80,7 +77,3 @@ Java • Spring Boot • PostgreSQL • JavaScript • Python • React • Git 
 
 **Building intelligent systems. Engineering career-ready products. Turning data into decisions.**
 '''
-
-path = "/mnt/data/README_buildwithshree.md"
-Path(path).write_text(content, encoding="utf-8")
-print(path)
