@@ -1,7 +1,5 @@
-````html
-<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:081420,15:10253F,35:1D3557,55:4F6D7A,75:A8C5D6,100:F1F5F9&text=SHREEJAL%20MEHTA&fontColor=FAFAF9&fontSize=62&fontAlignY=38&desc=AI-ML%20Engineer%20•%20Backend%20Developer%20•%20Generative%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,40:164E63,65:0F766E,85:5EEAD4,100:ECFEFF&text=SHREEJAL%20MEHTA&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=AI-ML%20Engineer%20•%20Backend%20Developer%20•%20GenAI%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -10,43 +8,48 @@ Building intelligent systems that transform data into decisions.
 
 <p align="center">
   <a href="https://github.com/buildwithshree">
-    <img src="https://img.shields.io/badge/GitHub-buildwithshree-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-buildwithshree-020617?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/shreejal-mehta">
-    <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- ABOUT -->
+<br>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0B132B,40:1C2541,70:3A506B,100:CFE8F3&text=ABOUT%20ME&fontColor=F8FAFC&fontSize=36"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020617,35:0F172A,70:164E63,100:5EEAD4&text=ABOUT%20ME&fontColor=F8FAFC&fontSize=34"/>
 </p>
 
 ## About Me
 
-AI-ML Engineer • Backend Developer • Generative AI Builder
+I am **Shreejal Mehta**, a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology, Delhi-NCR**.
 
-Currently pursuing **B.Tech Computer Science Engineering (AI-ML)** at **SRM Institute of Science and Technology, Delhi-NCR**.
-
-Focused on:
+I enjoy building software systems that combine:
 
 - Backend Engineering
 - Artificial Intelligence
-- Generative AI
 - Data Analytics
-- Production Grade Software Systems
-- Product-Oriented Development
+- Generative AI
+- Product Thinking
+- Real-World Problem Solving
+
+My goal is simple:
+
+> Build projects that solve meaningful problems and develop the engineering depth required for high-impact AI and software roles.
 
 ---
 
-<!-- LASIS -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:081420,30:0F3460,60:4F6D7A,100:E0FBFC&text=FLAGSHIP%20PROJECT%20-%20LASIS&fontColor=FFFFFF&fontSize=34"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=130&color=0:020617,30:134E4A,65:0F766E,100:99F6E4&text=FLAGSHIP%20PROJECT%20•%20LASIS&fontColor=FFFFFF&fontSize=34"/>
 </p>
 
 # LASIS — Layoff & Skill Intelligence System
 
-A risk-aware placement intelligence platform designed to help students make smarter career decisions.
+A placement intelligence platform designed to help students make smarter career decisions using company risk analysis, skill-gap evaluation, and readiness scoring.
 
 ### Core Modules
 
@@ -55,8 +58,7 @@ A risk-aware placement intelligence platform designed to help students make smar
 - Skill Gap Analysis
 - Company Stability Analytics
 - Placement Intelligence Dashboard
-
-### Tech Stack
+- Career Decision Support
 
 ```yaml
 Backend:
@@ -74,71 +76,34 @@ Architecture:
 Intelligence:
   - Predictive Modeling
   - Skill Gap Analysis
-````
-
----
-
-<!-- TECH -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:102A43,35:486581,65:9FB3C8,100:F0F4F8&text=TECH%20ARSENAL&fontColor=F8FAFC&fontSize=34"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,python,js,react,html,css,git,github,vscode"/>
-</p>
-
-### Languages
-
-```text
+  <p align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=0:082F49,35:0F766E,70:2DD4BF,100:F0FDFA&text=TECH%20ARSENAL&fontColor=FFFFFF&fontSize=34"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,js,react,html,css,git,github,vscode"/> </p>
+Languages
 Java
 JavaScript
 Python
 HTML5
 CSS3
-```
-
-### Backend
-
-```text
+Backend
 Spring Boot
 REST APIs
 JPA / Hibernate
 Service Layer Architecture
-```
-
-### Database
-
-```text
+Database
 PostgreSQL
 PL/pgSQL
-Schema Design
 Stored Procedures
-Triggers
-```
-
-### AI / GenAI
-
-```text
+Schema Design
+Indexes
+AI & GenAI
 Prompt Engineering
 LLM Integration
 Predictive Modeling
-AI-assisted Development
-```
-
----
-
-<!-- BUILDER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0B1F33,40:274C77,70:6096BA,100:D9EAFD&text=BUILDER%20PROFILE&fontColor=FFFFFF&fontSize=34"/>
-</p>
-
-```typescript
+AI Assisted Development
+RAG Systems
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,30:0F172A,65:155E75,100:A5F3FC&text=ENGINEERING%20PROFILE&fontColor=FFFFFF&fontSize=34"/> </p>
 const shreejal = {
   role: "AI-ML Engineer",
   specialization: "Backend + GenAI",
-  education: "B.Tech CSE (AI-ML)",
 
   currentProject: "LASIS",
 
@@ -151,73 +116,31 @@ const shreejal = {
     "Generative AI"
   ],
 
-  philosophy: "Build. Refine. Deploy."
+  interests: [
+    "AI Systems",
+    "Backend Engineering",
+    "Data Analytics",
+    "Software Architecture"
+  ],
+
+  philosophy: "Build. Learn. Refine. Deploy."
 };
-```
-
----
-
-<!-- ACHIEVEMENTS -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:081420,25:274C77,55:6096BA,100:EAF4F4&text=ACHIEVEMENTS&fontColor=FFFFFF&fontSize=34"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:042F2E,35:115E59,70:14B8A6,100:CCFBF1&text=ACHIEVEMENTS&fontColor=FFFFFF&fontSize=34"/> </p>
 
 🏆 Top 6 Finalist — GDG VividGlyph Coding Event
 
 🏆 Round 2 Qualifier — SnowHack IPEC
 
-🏆 HackWithIndia Participant — Microsoft Noida
+🏆 Participant — HackWithIndia (Microsoft Noida)
 
-🏆 Tata Group GenAI Data Analytics Simulation
+🏆 Tata Group GenAI Powered Data Analytics Simulation
 
----
-
-<!-- ROADMAP -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:0F172A,35:1E293B,70:475569,100:E2E8F0&text=2026%20ROADMAP&fontColor=F8FAFC&fontSize=34"/>
-</p>
-
-```diff
-+ Build LASIS into a production-grade platform
-+ Create Spring Boot Authentication API
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:020617,25:083344,55:0F766E,100:ECFEFF&text=2026%20ROADMAP&fontColor=FFFFFF&fontSize=34"/> </p>
++ Build LASIS as a production-grade platform
 + Build RAG Document Assistant
 + Build AI Resume Analyzer
-+ Build Movie Recommendation System
++ Build Spring Boot Authentication System
++ Build Recommendation Engine
 + Strengthen Java DSA Repository
-+ Secure High-Impact Internship
-```
-
----
-
-<!-- CONNECT -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:081420,35:1D3557,65:4F6D7A,100:F1F5F9&text=CONNECT&fontColor=FFFFFF&fontSize=34"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/buildwithshree">
-<img src="https://img.shields.io/badge/GitHub-buildwithshree-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shreejal-mehta">
-<img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-2563EB?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<b>
-Building intelligent systems • Engineering career-ready products • Turning data into decisions
-</b>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:F1F5F9,25:A8C5D6,50:4F6D7A,75:1D3557,100:081420&section=footer"/>
-</p>
-```
++ Secure a High-Impact Internship
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=speech&height=120&color=0:082F49,30:155E75,70:14B8A6,100:F0FDFA&text=CONNECT&fontColor=FFFFFF&fontSize=34"/> </p> <p align="center"> <a href="https://github.com/buildwithshree"> <img src="https://img.shields.io/badge/GitHub-buildwithshree-111827?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/shreejal-mehta"> <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-2563EB?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:YOUR_EMAIL_HERE"> <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> <br> <p align="center"> <b> Building intelligent systems • Engineering career-ready products • Turning data into decisions </b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ECFEFF,25:99F6E4,50:14B8A6,75:0F766E,100:020617&section=footer"/> </p> ```
