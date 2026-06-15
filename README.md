@@ -1,21 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,40:164E63,65:0F766E,85:5EEAD4,100:ECFEFF&text=SHREEJAL%20MEHTA&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=AI-ML%20Engineer%20•%20Backend%20Developer%20•%20GenAI%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-Building intelligent systems that transform data into decisions.
-</h3>
-
-<p align="center">
-  <a href="https://github.com/buildwithshree">
-    <img src="https://img.shields.io/badge/GitHub-buildwithshree-020617?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/shreejal-mehta">
-    <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:0F172A,40:164E63,65:0F766E,85:5EEAD4,100:ECFEFF&text=SHREEJAL%20MEHTA&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=AI-ML%20Engineer%20•%20Backend%20Developer%20•%20GenAI%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
+  </p>
+  
+  <h3 align="center">
+  Building intelligent systems that transform data into decisions.
+  </h3>
+  
+  <p align="center">
+    <a href="https://github.com/buildwithshree">
+      <img src="https://img.shields.io/badge/GitHub-buildwithshree-020617?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/shreejal-mehta">
+      <img src="https://img.shields.io/badge/LinkedIn-Shreejal%20Mehta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:YOUR_EMAIL_HERE">
+      <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 <br>
@@ -101,30 +101,7 @@ Predictive Modeling
 AI Assisted Development
 RAG Systems
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,30:0F172A,65:155E75,100:A5F3FC&text=ENGINEERING%20PROFILE&fontColor=FFFFFF&fontSize=34"/> </p>
-const shreejal = {
-  role: "AI-ML Engineer",
-  specialization: "Backend + GenAI",
 
-  currentProject: "LASIS",
-
-  stack: [
-    "Java",
-    "Spring Boot",
-    "PostgreSQL",
-    "REST APIs",
-    "Predictive Modeling",
-    "Generative AI"
-  ],
-
-  interests: [
-    "AI Systems",
-    "Backend Engineering",
-    "Data Analytics",
-    "Software Architecture"
-  ],
-
-  philosophy: "Build. Learn. Refine. Deploy."
-};
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:042F2E,35:115E59,70:14B8A6,100:CCFBF1&text=ACHIEVEMENTS&fontColor=FFFFFF&fontSize=34"/> </p>
 
 🏆 Top 6 Finalist — GDG VividGlyph Coding Event
