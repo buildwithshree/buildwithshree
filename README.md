@@ -100,7 +100,7 @@ LLM Integration
 Predictive Modeling
 AI Assisted Development
 RAG Systems
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:020617,30:0F172A,65:155E75,100:A5F3FC&text=ENGINEERING%20PROFILE&fontColor=FFFFFF&fontSize=34"/> </p>
+
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=egg&height=120&color=0:042F2E,35:115E59,70:14B8A6,100:CCFBF1&text=ACHIEVEMENTS&fontColor=FFFFFF&fontSize=34"/> </p>
 
